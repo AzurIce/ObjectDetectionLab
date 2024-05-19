@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "ObjectDetectionLab"
+
+[preprocessor.bib]
+bibliography = "my_biblio.bib"
