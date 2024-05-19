@@ -286,7 +286,7 @@ Deformable DETR：
 ## 参考
 
 
-@@zouObjectDetection202023a
+@@zou_object_2023
 
 
 [^1]: 

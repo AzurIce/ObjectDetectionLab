@@ -1,9 +1,11 @@
 [book]
 authors = ["Azur冰弦"]
-language = "en"
+language = "zh-CN"
 multilingual = false
 src = "src"
 title = "ObjectDetectionLab"
 
 [preprocessor.bib]
-bibliography = "my_biblio.bib"
+zotero-uid = "14320567"
+cite-hb-tpl = "templates/cite.hbs"
+hb-tpl = "templates/ref.hbs"
