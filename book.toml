@@ -1,0 +1,6 @@
+[book]
+authors = ["Azur冰弦"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ObjectDetectionLab"
