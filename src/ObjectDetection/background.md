@@ -285,12 +285,7 @@ Deformable DETR：
 
 ## 参考
 
-
-@@zou_object_2023
-
-
-[^1]: 
-Zou, Zhengxia, Keyan Chen, Zhenwei Shi, Yuhong Guo和Jieping Ye. 《Object Detection in 20 Years: A Survey》. *Proceedings of the IEEE* 111, 期 3 (2023年3月): 257–76. https://doi.org/10.1109/JPROC.2023.3238524.
+[^1]: @@zou_object_2023
 [^2]: Krizhevsky, Alex, Ilya Sutskever和Geoffrey E. Hinton. 《ImageNet classification with deep convolutional neural networks》. *Communications of the ACM* 60, 期 6 (2017年5月24日): 84–90. https://doi.org/10.1145/3065386.
 [^3]: Girshick, Ross, Jeff Donahue, Trevor Darrell和Jitendra Malik. 《Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation》. 收入 *2014 IEEE Conference on Computer Vision and Pattern Recognition*, 580–87, 2014. https://doi.org/10.1109/CVPR.2014.81.
 [^4]: Uijlings, J. R. R., K. E. A. van de Sande, T. Gevers和A. W. M. Smeulders. 《Selective Search for Object Recognition》. *International Journal of Computer Vision* 104, 期 2 (2013年9月1日): 154–71. https://doi.org/10.1007/s11263-013-0620-5.

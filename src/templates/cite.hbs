@@ -1,4 +1,3 @@
-
 [{{#if item.authors~}}{{#each item.authors as |author|~}}
     {{~#each author as |name|~}}
         {{~name~}}
@@ -8,7 +7,3 @@
 {{~/each}}. {{/if~}}
 {{~#if item.title}}<cite>{{item.title}}</cite>. {{/if}}
 {{~#if item.pub_year}}{{item.pub_year}}. {{/if}}]({{path}}#{{item.citation_key}})
-
-{{!-- author_year: [{{item.authors.[0].[0]}}{{#if item.authors.[2]}} et al.{{else}}{{#if item.authors.[1]}} & {{item.authors.[1].[0]}}{{/if}}{{/if}} {{item.pub_year}}]({{path}}#{{item.citation_key}})
-index: [{{item.index}}]({{path}}#{{item.citation_key}})
-key: [[{{item.citation_key}}]({{path}}#{{item.citation_key}})] --}}
